@@ -1,1 +1,3 @@
 practice git222
+git add
+git commit
